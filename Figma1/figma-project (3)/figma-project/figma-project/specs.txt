@@ -1,0 +1,23 @@
+COLORS
+Yellow accent: #FFB400
+Page background: #F1F0F6
+Heading text: #2B2B2B
+Paragraph text: #767676
+Card background: #FFFFFF
+Input background: #F0F0F6
+Footer background: #F0F0F6
+
+FONTS
+Font family: Inter
+Hero heading (size / weight / line-height): 48px / 700 / 124%
+Section title: 32px / 700 / 124%
+Paragraph: 16px / 400 / 24px
+Nav link: 14px / 500 / 100%
+Button text: 14px / 600 / 100% (uppercase)
+Card title: 16px / 500 / 124%
+
+SIZES
+Header height: 152px (navbar, full width 1440px)
+Hero illustration: not read yet, see below
+Project card (w x h, radius): 385 x 432.45, radius 12px
+Contact form: 846 x 759 (whole column, including the heading)
